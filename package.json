@@ -1,0 +1,27 @@
+{
+  "name": "moosa-khan-05-countdown-timer",
+  "version": "2.1.2",
+  "description": "",
+  "main": "countdowntimer.js",
+  "type": "module",
+  "bin": "countdowntimer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.7.0",
+    "inquirer": "^9.2.19",
+    "ora": "^8.0.1"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/chalk-animation": "^1.6.3",
+    "@types/figlet": "^1.5.8",
+    "@types/inquirer": "^9.0.7"
+  }
+}
